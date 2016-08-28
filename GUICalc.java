@@ -1,7 +1,6 @@
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
-
 // get layout worked out before moving on to functionality
 
 public class GUICalc {
